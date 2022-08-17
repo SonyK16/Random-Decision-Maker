@@ -10,7 +10,7 @@ max = 3
 print("\n Decision: " + str(random.randint(min, max)))
 
 #code end here
-
+   
 #It's suggested to run several times and try to see the average number. Or you can just run once.
 
 
