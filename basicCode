@@ -1,0 +1,16 @@
+#code start here
+a = "your dough goes here"
+b = "don't know what to do? What's the other option?"
+c = "Just in case. A coin only have two sides."
+
+min = 1
+max = 3
+# 1 corresponds to 'a', 2 corresponds to 'b', 3 corresponds to 'c' 
+
+print("\n Decision: " + str(random.randint(min, max)))
+
+#code end here
+
+#It's suggested to run several times and try to see the average number. Or you can just run once.
+
+
