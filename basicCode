@@ -11,6 +11,6 @@ print("\n Decision: " + str(random.randint(min, max)))
 
 #code end here
    
-#It's suggested to run several times and try to see the average number. Or you can just run once.
+#It's suggested to run several times and try to see the average number. Or you can be super radical and run just once.
 
 
