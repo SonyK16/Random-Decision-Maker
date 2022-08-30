@@ -1,5 +1,6 @@
 #code start here
 import random
+print("Not sure about what to do? We got you. What are your thoughts?")
 a = input("Option one: ")
 b = input("Option two: ")
 c = input("Option three: ")
